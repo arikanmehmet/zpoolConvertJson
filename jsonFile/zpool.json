@@ -1,0 +1,23 @@
+{
+    "pool": " app ",
+    "state": " ONLINE  ",
+    "scan": " none requested",
+    "config": [
+        null,
+        {
+            "name": "app",
+            "state": " ONLINE",
+            "read": " 0",
+            "write": " 0",
+            "cksum": " 0"
+        },
+        {
+            "name": "sda6",
+            "state": "ONLINE",
+            "read": " 0",
+            "write": " 0",
+            "cksum": " 0"
+        }
+    ],
+    "errors": " No known data errors"
+}
